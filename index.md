@@ -12,7 +12,9 @@ console.log(helloWorld)
 ```
 
 
-
+- [ ] Finish Github tutorial
+- [ ] Finish 1 minute speech
+- [ ] Work on codecademy
 
 
 
