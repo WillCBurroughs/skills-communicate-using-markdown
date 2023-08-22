@@ -6,7 +6,10 @@
 ![Image of YaktoCat](https://octodex.github.com/images/yaktocat.png)
 
 
-
+``` javascript
+let helloWorld = "Hello World"
+console.log(helloWorld)
+```
 
 
 
